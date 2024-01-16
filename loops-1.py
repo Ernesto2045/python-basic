@@ -24,3 +24,6 @@ average = sum / count
 print("The average age is", str(average))
 
 
+
+
+
